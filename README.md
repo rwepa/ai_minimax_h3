@@ -15,3 +15,4 @@
 
 6.結論
 
+PDF講義: https://github.com/rwepa/ai_minimax_h3/blob/main/ai_minimax_h3.pdf
