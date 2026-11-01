@@ -16,3 +16,5 @@
 6.結論
 
 PDF講義: https://github.com/rwepa/ai_minimax_h3/blob/main/ai_minimax_h3.pdf
+
+🌸YouTubeRoyal Sonata《皇室奏鳴曲》【中文字幕】：https://youtu.be/D3IFTn50_kg
