@@ -23,7 +23,7 @@ https://github.com/rwepa/ai_minimax_h3/blob/main/ai_minimax_h3.pdf
 
 https://youtu.be/D3IFTn50_kg
 
-# Sense5-shot15範例
+# Sense5-shot15_Example
 
 ## 1.劇本AI提示詞
 建立 Minimax h3 參考生影片的中文、英文提示詞，不用生成圖片：
